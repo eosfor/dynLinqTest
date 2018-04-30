@@ -1,0 +1,9 @@
+C:\Tests\dynLinqTest\dinLinqTestModule\bin\Debug\netcoreapp2.0\dinLinqTestModule.deps.json
+C:\Tests\dynLinqTest\dinLinqTestModule\bin\Debug\netcoreapp2.0\dinLinqTestModule.dll
+C:\Tests\dynLinqTest\dinLinqTestModule\obj\Debug\netcoreapp2.0\dinLinqTestModule.csprojResolveAssemblyReference.cache
+C:\Tests\dynLinqTest\dinLinqTestModule\obj\Debug\netcoreapp2.0\dinLinqTestModule.csproj.CoreCompileInputs.cache
+C:\Tests\dynLinqTest\dinLinqTestModule\obj\Debug\netcoreapp2.0\dinLinqTestModule.AssemblyInfoInputs.cache
+C:\Tests\dynLinqTest\dinLinqTestModule\obj\Debug\netcoreapp2.0\dinLinqTestModule.AssemblyInfo.cs
+C:\Tests\dynLinqTest\dinLinqTestModule\bin\Debug\netcoreapp2.0\dinLinqTestModule.pdb
+C:\Tests\dynLinqTest\dinLinqTestModule\obj\Debug\netcoreapp2.0\dinLinqTestModule.dll
+C:\Tests\dynLinqTest\dinLinqTestModule\obj\Debug\netcoreapp2.0\dinLinqTestModule.pdb
