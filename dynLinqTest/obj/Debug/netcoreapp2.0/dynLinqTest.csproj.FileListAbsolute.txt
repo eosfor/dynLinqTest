@@ -1,0 +1,11 @@
+C:\Tests\dynLinqTest\dynLinqTest\bin\Debug\netcoreapp2.0\dynLinqTest.deps.json
+C:\Tests\dynLinqTest\dynLinqTest\bin\Debug\netcoreapp2.0\dynLinqTest.runtimeconfig.json
+C:\Tests\dynLinqTest\dynLinqTest\bin\Debug\netcoreapp2.0\dynLinqTest.runtimeconfig.dev.json
+C:\Tests\dynLinqTest\dynLinqTest\bin\Debug\netcoreapp2.0\dynLinqTest.dll
+C:\Tests\dynLinqTest\dynLinqTest\obj\Debug\netcoreapp2.0\dynLinqTest.csprojResolveAssemblyReference.cache
+C:\Tests\dynLinqTest\dynLinqTest\obj\Debug\netcoreapp2.0\dynLinqTest.csproj.CoreCompileInputs.cache
+C:\Tests\dynLinqTest\dynLinqTest\obj\Debug\netcoreapp2.0\dynLinqTest.AssemblyInfoInputs.cache
+C:\Tests\dynLinqTest\dynLinqTest\obj\Debug\netcoreapp2.0\dynLinqTest.AssemblyInfo.cs
+C:\Tests\dynLinqTest\dynLinqTest\bin\Debug\netcoreapp2.0\dynLinqTest.pdb
+C:\Tests\dynLinqTest\dynLinqTest\obj\Debug\netcoreapp2.0\dynLinqTest.dll
+C:\Tests\dynLinqTest\dynLinqTest\obj\Debug\netcoreapp2.0\dynLinqTest.pdb
