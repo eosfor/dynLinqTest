@@ -10,4 +10,10 @@
     <PackageReference Include="System.Linq.Dynamic.Core" Version="1.0.8.6" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="dinLinqTestModule.psd1">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
