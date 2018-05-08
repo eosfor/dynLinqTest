@@ -3,9 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dynLinqTest", "dynLinqTest\dynLinqTest.csproj", "{D061FCAC-47A0-4B18-AECE-67BBB6CAE83F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dynLinqTest", "dynLinqTest\dynLinqTest.csproj", "{D061FCAC-47A0-4B18-AECE-67BBB6CAE83F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dinLinqTestModule", "dinLinqTestModule\dinLinqTestModule.csproj", "{E1D405D4-D29C-4CC1-8981-2CA0C0C1C4E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dinLinqTestModule", "dinLinqTestModule\dinLinqTestModule.csproj", "{E1D405D4-D29C-4CC1-8981-2CA0C0C1C4E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EC0E4D14-3301-45E8-B9FD-C1EA59344689}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
