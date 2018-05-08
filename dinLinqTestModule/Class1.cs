@@ -4,7 +4,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Linq.Dynamic.Core;
 
-namespace dinLinqTestModule
+namespace dynLinqTestModule
 {
     [Cmdlet("Get", "Test")]
     public class GetTestCmdlet : PSCmdlet
